@@ -11,11 +11,6 @@ Prerequisites: Some coding skills are necessary. Preferably python, but any othe
 
 If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge.  To find out more about IBM digital badges follow the link ibm.biz/badging.
 
-### What I have learned in the course:
-  - I learned in theory and practice about search without information and search with information/heuristics
-  - I understood the practical operation of greedy search algorithms, A * search (star), width search and depth search
-  - I learned step by step how to develop an algorithm to find the best route between cities
-  
 
 ### Program
 - Introduction to deep learning 
